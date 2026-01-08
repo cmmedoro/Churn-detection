@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+numpy==2.0.0
+scipy==1.14.1
+pydantic==2.9.2
+seaborn==0.13.2
+pandas>=1.2
+scikit-learn>=0.22
+opencv-python
+jupyterlab
+tqdm
+matplotlib
+simplejson
+pip
+xgboost
+imblearn
+lightgbm
+scikit-survival
